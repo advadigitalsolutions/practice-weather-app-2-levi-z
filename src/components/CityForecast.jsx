@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
-import { useParams } from "react-router";
+import { useParams } from "react-router-dom";
 import weatherData from "../assets/data.json"
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 export default function CityForecast() {
 
