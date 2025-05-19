@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  color: yellow;
+}
+
+
+ul {
+  text-align: left;
+  font-size: larger;
+  border: double;
+  color: yellow;
+  list-style-type: circle;
+
+}
+
+.details {
+  padding: 275px;
+}
+
+h2, p {
+  color: turquoise;
+}
